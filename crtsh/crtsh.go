@@ -84,5 +84,5 @@ func main() {
 	}
 
 	writer.Flush()
-	fmt.Printf("Results saved to %s\n", *outputPtr)
+	// fmt.Printf("Results saved to %s\n", *outputPtr)
 }
