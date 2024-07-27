@@ -1,10 +1,10 @@
 # info to search signature
-id: fuzz-DOM-XSS
+id: fuzz-Ref-and-DOM-XSS
 type: fuzz
 info:
-  name: DOM Based XSS
+  name: Ref and DOM Based XSS
   risk: High
-  author: "@GochaOqradze"
+  author: "mrrootsec"
 
 # origin: gonna come from Burp
 variables:
